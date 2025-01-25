@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
    4.2 PDFs of books, research papers, articles, documents,
 
-   Optional -> in context.py modify the chunk_size and chunk_overlap based on the size of your data to fine tune the embeddings based on your requirements.
+   Optional -> in `context_maker.py` modify the `chunk_size` and `chunk_overlap` based on the size of your data to fine tune the embeddings based on your requirements.
 
    4.3 run `context_maker.py` file
 
