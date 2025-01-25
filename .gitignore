@@ -1,0 +1,9 @@
+.env
+env/
+context/David_D._Burns_-_The_Feeling_Good_Handbook-Penguin_(1999).pdf
+context/Russ Harris_-_The_Happiness_Trap_ How_to_Stop_Struggling_and_Start_Living-Trumpeter_(2008).pdf
+vectorstore/db_faiss/
+test.py 
+
+
+
